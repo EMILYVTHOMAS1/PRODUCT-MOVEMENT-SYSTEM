@@ -6,6 +6,9 @@ The proposed system “Product MovementSystem” is an online project to handle 
 4)	Clients
 5)	Guest user
      
-     Admin is the authority of this site. This user controls the entire process. Admin Staff is the staff of this organization. This user handles the different processfor admin. Companies are users from outside the country. This user receives products from this organization and send products to this organization (Import and export). Clients are of two types ,
+     Admin is the authority of this site. This user controls the entire process. Admin Staff is the staff of this organization. This user handles the different processfor admin. Companies are users from outside the country. This user receives products from this organization and send products to this organization (Import and export). 
+     
+     
+     This project is developed in ASP.NET with C# and MYSQL
 
 
